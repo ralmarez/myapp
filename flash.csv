@@ -1,0 +1,109 @@
+﻿Verb,Verb Type,Tense,Person,Ending,front,back
+hablar,ar,Present,yo,#NAME?,I speak,yo hablo
+hablar,ar,Present,tú,#NAME?,You speak,tú hablas
+hablar,ar,Present,él,#NAME?,He speaks,él habla
+hablar,ar,Present,nosotros,#NAME?,We speak,nosotros hablamos
+hablar,ar,Present,vosotros,#NAME?,You all speak,vosotros habláis
+hablar,ar,Present,ellos,#NAME?,They speak,ellos hablan
+hablar,ar,Preterite,yo,#NAME?,I spoke,yo hablé
+hablar,ar,Preterite,tú,#NAME?,You spoke,tú hablaste
+hablar,ar,Preterite,él,#NAME?,He spoke,él habló
+hablar,ar,Preterite,nosotros,#NAME?,We spoke,nosotros hablamos
+hablar,ar,Preterite,vosotros,#NAME?,You all spoke,vosotros hablasteis
+hablar,ar,Preterite,ellos,#NAME?,They spoke,ellos hablaron
+hablar,ar,Imperfect,yo,#NAME?,I was speaking,yo hablaba
+hablar,ar,Imperfect,tú,#NAME?,You were speaking,tú hablabas
+hablar,ar,Imperfect,él,#NAME?,He was speaking,él hablaba
+hablar,ar,Imperfect,nosotros,#NAME?,We were speaking,nosotros hablábamos
+hablar,ar,Imperfect,vosotros,#NAME?,You all were speaking,vosotros hablabais
+hablar,ar,Imperfect,ellos,#NAME?,They were speaking,ellos hablaban
+hablar,ar,Future,yo,#NAME?,I will speak,yo hablé
+hablar,ar,Future,tú,#NAME?,You will speak,tú hablás
+hablar,ar,Future,él,#NAME?,He will speak,él hablá
+hablar,ar,Future,nosotros,#NAME?,We will speak,nosotros hablaremos
+hablar,ar,Future,vosotros,#NAME?,You all will speak,vosotros habléis
+hablar,ar,Future,ellos,#NAME?,They will speak,ellos hablán
+hablar,ar,Conditional,yo,#NAME?,I would speak,yo hablía
+hablar,ar,Conditional,tú,#NAME?,You would speak,tú hablías
+hablar,ar,Conditional,él,#NAME?,He would speak,él hablía
+hablar,ar,Conditional,nosotros,#NAME?,We would speak,nosotros hablaríamos
+hablar,ar,Conditional,vosotros,#NAME?,You all would speak,vosotros hablíais
+hablar,ar,Conditional,ellos,#NAME?,They would speak,ellos hablían
+hablar,ar,Progressive,yo,#NAME?,I am speaking,yo estoy hablando
+hablar,ar,Progressive,tú,#NAME?,You are speaking,tú estás hablando
+hablar,ar,Progressive,él,#NAME?,He is speaking,él está hablando
+hablar,ar,Progressive,nosotros,#NAME?,We are speaking,nosotros estamos hablando
+hablar,ar,Progressive,vosotros,#NAME?,You all are speaking,vosotros estáis hablando
+hablar,ar,Progressive,ellos,#NAME?,They are speaking,ellos están hablando
+comer,er,Present,yo,#NAME?,I eat,yo como
+comer,er,Present,tú,#NAME?,You eat,tú comes
+comer,er,Present,él,#NAME?,He eats,él come
+comer,er,Present,nosotros,#NAME?,We eat,nosotros comemos
+comer,er,Present,vosotros,#NAME?,You all eat,vosotros coméis
+comer,er,Present,ellos,#NAME?,They eat,ellos comen
+comer,er,Preterite,yo,#NAME?,I ate,yo comí
+comer,er,Preterite,tú,#NAME?,You ate,tú comiste
+comer,er,Preterite,él,#NAME?,He ate,él comió
+comer,er,Preterite,nosotros,#NAME?,We ate,nosotros comimos
+comer,er,Preterite,vosotros,#NAME?,You all ate,vosotros comisteis
+comer,er,Preterite,ellos,#NAME?,They ate,ellos comieron
+comer,er,Imperfect,yo,#NAME?,I was eating,yo comía
+comer,er,Imperfect,tú,#NAME?,You were eating,tú comías
+comer,er,Imperfect,él,#NAME?,He was eating,él comía
+comer,er,Imperfect,nosotros,#NAME?,We were eating,nosotros comíamos
+comer,er,Imperfect,vosotros,#NAME?,You all were eating,vosotros comíais
+comer,er,Imperfect,ellos,#NAME?,They were eating,ellos comían
+comer,er,Future,yo,#NAME?,I will eat,yo comé
+comer,er,Future,tú,#NAME?,You will eat,tú comás
+comer,er,Future,él,#NAME?,He will eat,él comá
+comer,er,Future,nosotros,#NAME?,We will eat,nosotros comeremos
+comer,er,Future,vosotros,#NAME?,You all will eat,vosotros coméis
+comer,er,Future,ellos,#NAME?,They will eat,ellos comán
+comer,er,Conditional,yo,#NAME?,I would eat,yo comía
+comer,er,Conditional,tú,#NAME?,You would eat,tú comías
+comer,er,Conditional,él,#NAME?,He would eat,él comía
+comer,er,Conditional,nosotros,#NAME?,We would eat,nosotros comeríamos
+comer,er,Conditional,vosotros,#NAME?,You all would eat,vosotros comíais
+comer,er,Conditional,ellos,#NAME?,They would eat,ellos comían
+comer,er,Progressive,yo,#NAME?,I am eating,yo estoy comiendo
+comer,er,Progressive,tú,#NAME?,You are eating,tú estás comiendo
+comer,er,Progressive,él,#NAME?,He is eating,él está comiendo
+comer,er,Progressive,nosotros,#NAME?,We are eating,nosotros estamos comiendo
+comer,er,Progressive,vosotros,#NAME?,You all are eating,vosotros estáis comiendo
+comer,er,Progressive,ellos,#NAME?,They are eating,ellos están comiendo
+vivir,ir,Present,yo,#NAME?,I live,yo vivo
+vivir,ir,Present,tú,#NAME?,You live,tú vives
+vivir,ir,Present,él,#NAME?,He lives,él vive
+vivir,ir,Present,nosotros,#NAME?,We live,nosotros vivimos
+vivir,ir,Present,vosotros,#NAME?,You all live,vosotros vivís
+vivir,ir,Present,ellos,#NAME?,They live,ellos viven
+vivir,ir,Preterite,yo,#NAME?,I lived,yo viví
+vivir,ir,Preterite,tú,#NAME?,You lived,tú viviste
+vivir,ir,Preterite,él,#NAME?,He lived,él vivió
+vivir,ir,Preterite,nosotros,#NAME?,We lived,nosotros vivimos
+vivir,ir,Preterite,vosotros,#NAME?,You all lived,vosotros vivisteis
+vivir,ir,Preterite,ellos,#NAME?,They lived,ellos vivieron
+vivir,ir,Imperfect,yo,#NAME?,I was living,yo vivía
+vivir,ir,Imperfect,tú,#NAME?,You were living,tú vivías
+vivir,ir,Imperfect,él,#NAME?,He was living,él vivía
+vivir,ir,Imperfect,nosotros,#NAME?,We were living,nosotros vivíamos
+vivir,ir,Imperfect,vosotros,#NAME?,You all were living,vosotros vivíais
+vivir,ir,Imperfect,ellos,#NAME?,They were living,ellos vivían
+vivir,ir,Future,yo,#NAME?,I will live,yo vivé
+vivir,ir,Future,tú,#NAME?,You will live,tú vivás
+vivir,ir,Future,él,#NAME?,He will live,él vivá
+vivir,ir,Future,nosotros,#NAME?,We will live,nosotros viviremos
+vivir,ir,Future,vosotros,#NAME?,You all will live,vosotros vivéis
+vivir,ir,Future,ellos,#NAME?,They will live,ellos viván
+vivir,ir,Conditional,yo,#NAME?,I would live,yo vivía
+vivir,ir,Conditional,tú,#NAME?,You would live,tú vivías
+vivir,ir,Conditional,él,#NAME?,He would live,él vivía
+vivir,ir,Conditional,nosotros,#NAME?,We would live,nosotros viviríamos
+vivir,ir,Conditional,vosotros,#NAME?,You all would live,vosotros vivíais
+vivir,ir,Conditional,ellos,#NAME?,They would live,ellos vivían
+vivir,ir,Progressive,yo,#NAME?,I am living,yo estoy viviendo
+vivir,ir,Progressive,tú,#NAME?,You are living,tú estás viviendo
+vivir,ir,Progressive,él,#NAME?,He is living,él está viviendo
+vivir,ir,Progressive,nosotros,#NAME?,We are living,nosotros estamos viviendo
+vivir,ir,Progressive,vosotros,#NAME?,You all are living,vosotros estáis viviendo
+vivir,ir,Progressive,ellos,#NAME?,They are living,ellos están viviendo
